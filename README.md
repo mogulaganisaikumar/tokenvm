@@ -54,7 +54,7 @@ raw power of the `hypersdk`, the `tokenvm` also provides support for fully
 on-chain trading. Anyone can create an "offer" with a rate/token they are
 willing to accept and anyone else can fill that "offer" if they find it
 interesting. The `tokenvm` also maintains an in-memory order book to serve over
-RPC for clients looking to interact with these orders.
+RPC for clients looking to interact with these order.
 
 Orders are a native feature of the `tokenvm` and the storage engine is
 optimized specifically to support their efficient usage (just like balances
